@@ -5,12 +5,12 @@ setup(
     version='0.1',
     packages=find_packages(),
     install_requires=[],  # Add any dependencies here
-    author='Your Name',
+    author='Anannya',
     author_email='you@example.com',
     description='A short description of the package',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/my_package',  # Update this
+    url='https://github.com/Anannya-I/MathsEqu.git',  # Update this
     classifiers=[
         'Programming Language :: Python :: 3',
     ],
